@@ -1,0 +1,49 @@
+[
+    {
+        "title" : "Porta Pivotante Lisa Sólida",
+        "text" : [
+            "Adquira Kit Porta Pronta Tabaco Lisa Sólida na Pormade",
+            "A escolha ideal para ambientes modernos",
+            "O kit acompanha vários itens para a perfeita instalação do produto. Esses itens são: jogo de alizares, ferragens, a folha da porta e o marco.",
+            "A porta já vem com os furos nos locais certos e os marcos acompanham borrachas amortecedoras em seus canais."
+        ],
+        "tags" : ["Porta de Giro", "Lisa"],
+        "image" : "/lisaTabaco.png",
+        "alt" : "Kit porta solida Tabaco"
+    },
+    {
+        "title": "Porta de Correr Lisa Sólida",
+        "text": [
+            "Adquira Kit Porta Pronta Cappuccino Lisa Sólida na Pormade",
+            "A escolha ideal para melhorar o desempenho térmico e acústico dos seus ambientes.",
+            "O kit acompanha vários itens para a perfeita instalação do produto. Esses itens são: jogo de alizares, ferragens, a folha da porta e o marco.",
+            "A porta já vem com os furos nos locais certos e os marcos acompanham borrachas amortecedoras em seus canais."
+        ],
+        "tags" : ["Porta de Correr", "Lisa"],
+        "image" : "/lisaCappuccino.jpg",
+        "alt" : "Kit porta solida Cappuccino"
+    },
+    {
+        "title": "Piso Vinílico Rígido ",
+        "text" : [
+            "Adquira Piso Vinílico Rígido na Pormade",
+            "A coleção de pisos vinílicos Belezas do Brasil é uma solução que proporciona aconchego, segurança e é cheia de significado.",
+            "A experiência de estar em contato com a natureza promove uma reflexão profunda sobre nossos sonhos e objetivos.",
+            "Convidamos você para embarcar na belíssima aventura que inspira a Linha Paisagens. Viaje conosco pela beleza e encanto desses modelos!"
+        ],
+        "tags" : ["Linha Paisagens", "Colinas"],
+        "image" : "/pisoColinas.png",
+        "alt" : "Piso vinilico colinas"
+    },
+    {
+        "title" : "Rodapé Em PVC Wood Liso ",
+        "text": [
+            "O rodapé Pormade traz muitos benefícios para o acabamento de sua obra.",
+            "Um dos diferenciais possuir o mesmo acabamento de cor e textura do alizar e do Kit Porta Pronta. O material é resistente à umidade e recebe tratamento contra cupins.",
+            "É fácil instalar e a fixação é feita apenas com cola, sem uso de pregos, parafusos e sem a necessidade uso da bucha “T” para instalação, mantendo a superfície livre de marcas de fixação."
+        ],
+        "tags" : ["Elegância", "modernidade"],
+        "image": "/rodape.png",
+        "alt" : "Rodape Em PVC Wood Liso"
+    }
+]
